@@ -20,5 +20,5 @@ for (let i: number = 1; i <= n; i++) {
 console.log();
 console.log("Factorial of " + n + " = " + fact);
 
-let m = 8;
+let m: number = 8;
 console.log(m % 2 == 0 ? "False" : "True");
